@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "A title",
+    "description": "And a description",
+    "aperture": 2.8,
+    "shutter": 0.5,
+    "iso": 200
+  }
+]
