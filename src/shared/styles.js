@@ -3,6 +3,9 @@ import { StyleSheet, Platform } from 'react-native';
 import { Color } from './colors';
 
 const styles = StyleSheet.create({
+  debug: {
+    backgroundColor: '#f00',
+  },
   directionRow: {
     flexDirection: 'row',
     alignItems: 'center',

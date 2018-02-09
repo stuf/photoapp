@@ -16,8 +16,6 @@ const styles = StyleSheet.create({
 
 export default class Root extends Component {
   render() {
-    return (
-      <RootScene />
-    );
+    return <RootScene />;
   }
-};
+}
